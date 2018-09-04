@@ -1,4 +1,4 @@
-package org.mvpigs.Pulpo;
+package org.mvpigs.pulpo;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package org.mvpigs.Pulpo;
+package org.mvpigs.pulpo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
