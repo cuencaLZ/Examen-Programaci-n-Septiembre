@@ -1,4 +1,4 @@
-package org.mvpigs.pulpo-raza-loba;
+package org.mvpigs.Pulpo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
